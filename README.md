@@ -1,4 +1,4 @@
-## Hi there 👋
+Este es un repositorio de la cátedra de Testing y Seguridad de la Información de ESET de la UNQ
 
 <!--
 **githombregato/githombregato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
